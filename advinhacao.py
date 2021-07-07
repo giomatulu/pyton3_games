@@ -73,6 +73,7 @@ def jogar():
             if (perdeu):
                 print(" ")
                 print("Você perdeu! :(")
+                break
 
     print(" ")
     print("FIM DE JOGO!")
